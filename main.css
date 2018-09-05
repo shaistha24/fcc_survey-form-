@@ -1,0 +1,36 @@
+.bg{
+  background:url("https://images.unsplash.com/photo-1460602594182-8568137446ce?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c6a89cf0d31c8ed23b35aaf9a119a9f5&w=1000&q=80");
+}
+#title,#description{
+  text-align:center;
+}
+
+.box{
+  border:2px solid #ccc;
+  border-radius: 5px;
+  margin: 10px 5px;
+  padding: 4px;
+  
+}
+.table-content{
+  display: flex;
+  
+  
+}
+.lc{
+  text-align:right;
+  vertical-align:top;
+}
+.rc{
+  
+}
+.box{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 100px 150px 100px 150px;
+    padding: 10px 20px 10px 20px;
+    background:url("https://jooinn.com/images/crumpled-paper-107.jpg");
+  }
+.table-content{
+  margin: 0 auto;
+}
